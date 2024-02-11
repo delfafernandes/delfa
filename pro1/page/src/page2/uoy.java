@@ -12,4 +12,7 @@ public class uoy {
 		System.out.println(c);
 	}
 
+	void ttt() {
+		
+	}
 }
