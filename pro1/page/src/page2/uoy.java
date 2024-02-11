@@ -15,4 +15,8 @@ public class uoy {
 	void ttt() {
 		
 	}
+	void bet() {
+		System.out.println("c");
+
+	}
 }
